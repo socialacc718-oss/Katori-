@@ -1,0 +1,6 @@
+{
+  "name": "KATORI - Rice • Salads • Fries",
+  "description": "Order delicious signature rice bowls, ocean obsession seafood, loaded fries, fresh salads & handcrafted dips online with instant WhatsApp order slip dispatch.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
